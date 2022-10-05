@@ -25,6 +25,6 @@ Analisis yang dilakukan terhadap dataset tersebut antara lain:
 # Customer Analytics
     - Analisa terhadap customer setiap tahunnya
     - Analisa terhadap jumlah customer baru setiap tahunnya
-    - Cohort untuk mengetahui angka retention customer tahun 2009
+  
 
 
